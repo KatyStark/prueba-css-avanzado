@@ -225,8 +225,12 @@ footer{
     }
     nav{
         flex-direction: row;
+        gap: 0;
         img{
             width: 120px;
+        }
+        a{
+            margin-left: 15px;
         }
     }
     main{
